@@ -1,10 +1,14 @@
 
-Hola, Soy Andres.
+Hola, Soy Andres, Tengo 25 años.
 
 Aprendiendo a usar git bash.
 
 
-y ahora estoy haciendo cambios desde bash, primer cambio.
+y ahora estoy haciendo cambios desde bash
 
 
 Voy a revisar como se muestran los cambios en la terminal con el comando git show.
+
+
+Agrego otra linea y hago cambios en las anteriores para probar
+La comparacion de versiones y el volver a una version anterior.
