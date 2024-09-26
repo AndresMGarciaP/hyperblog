@@ -3,3 +3,6 @@ Hola
 
 Aprendiendo a usar git bash.
 
+
+y ahora estoy haciendo cambios desde bash, primer cambio.
+
