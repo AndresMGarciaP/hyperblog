@@ -1,8 +1,10 @@
 
-Hola
+Hola, Soy Andres.
 
 Aprendiendo a usar git bash.
 
 
 y ahora estoy haciendo cambios desde bash, primer cambio.
 
+
+Voy a revisar como se muestran los cambios en la terminal con el comando git show.
