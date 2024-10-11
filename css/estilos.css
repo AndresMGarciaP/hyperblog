@@ -24,12 +24,12 @@ font-family: "Arial";
 }
 
 #container
-r
+
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #dddddd56;
     margin: 0 auto;
 }
 #container h1
